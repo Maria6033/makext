@@ -15,3 +15,4 @@ Makext is a collection of extensions for Makefiles that enhance the functionalit
 # guard against empty input
 # avoid re-reading the config on every call
 # drop an unused branch
+# avoid re-reading the config on every call
