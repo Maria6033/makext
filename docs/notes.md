@@ -41,3 +41,4 @@ Notes and usage details for makext.
 - link the usage section
 - link the usage section
 - link the usage section
+- clarify the setup steps
